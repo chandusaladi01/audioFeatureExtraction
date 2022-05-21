@@ -1,6 +1,6 @@
-Feature extraction¶
-Spectral features¶
+Feature extraction
 
+Spectral features
 
 chroma_stft(*[, y, sr, S, norm, n_fft, ...])  ----> Compute a chromagram from a waveform or power spectrogram.
 
